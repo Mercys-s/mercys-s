@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="./snake.svg" alt="GitHub Contribution Snake">
+</p>
 
 <!--
 **Mercys-s/mercys-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
