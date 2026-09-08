@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./snake.svg" alt="GitHub Contribution Snake">
+  <img src="./snake_blue.svg" alt="GitHub Contribution Snake">
 </p>
 
 <!--
